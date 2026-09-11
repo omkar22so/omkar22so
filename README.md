@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm **Tushar Vyavhare**
+# 👋 Hi, I'm **OMKAR RAJENDRA SOLANKAR**
 
 ### ⚙️ B.Tech Mechanical Engineering Student | 💻 Computer Engineering Background | 🤖 AI/ML & Technology Enthusiast
 
@@ -26,7 +26,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm **Tushar Vyavhare**, a **B.Tech Mechanical Engineering student** with a **Diploma background in Computer Engineering**.
+I'm **OMKAR RAJENDRA SOLANKAR**, a **B.Tech Mechanical Engineering student** with a **Diploma background in Computer Engineering**.
 
 My journey combines **mechanical engineering, software development, artificial intelligence, data analytics, and engineering design**.
 
